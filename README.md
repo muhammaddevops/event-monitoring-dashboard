@@ -14,14 +14,8 @@
 - cd into `frontend` and run `npm start`
 
 ## Preview of this dashboard
+![serverMonitoringDashboard](https://github.com/user-attachments/assets/27fa0a64-f28c-4207-82c2-ec226a61a3b6)
 
-## Folder structure
-
-├── /frontend # React application (management console)
-├── /backend # Node.js services
-│ ├── /api # API service
-│ ├── /processor # Event processing service
-│ └── /simulator # Event simulator (for testing)
 
 ## What this app is:
 
