@@ -1,6 +1,6 @@
 # event-monitoring-dashboard
 
-## An event monitoring dashboard POC aimed at reducing loads on DBs and providing live updates with a frontend
+## An event monitoring dashboard with simulator for events, aimed at reducing loads on databases by providing live healthcheck updates of the different systems in an architecture.
 
 ## How to setup:
 
