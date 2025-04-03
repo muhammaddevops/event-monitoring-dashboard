@@ -1,6 +1,5 @@
-# event-monitoring-dashboard
-
-## An event monitoring dashboard with simulator for events, aimed at reducing loads on databases by providing live healthcheck updates of the different systems in an architecture.
+## Events monitoring dashboard with a real-time simulator. 
+This is aimed at reducing loads on databases by providing live healthcheck updates of the different systems in an architecture.
 
 ## How to setup:
 
